@@ -9,3 +9,5 @@
    4.2. password? -> [GitHub Personal Access Token]
 
 dummy changes
+
+new change
